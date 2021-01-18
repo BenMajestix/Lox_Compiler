@@ -1,0 +1,7 @@
+lox/Token.class
+lox/TokenType.class
+tool/GenerateAst.class
+lox/Expr$Binary.class
+lox/Expr.class
+lox/lox.class
+lox/Scan.class

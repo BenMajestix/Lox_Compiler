@@ -1,0 +1,49 @@
+/Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Volumes/BEN_DRIVE/General/loxCompiler/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'loxCompiler 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'loxCompiler 1.0-SNAPSHOT API'
+tool
+lox
+lox
+lox
+lox
+lox
+/Volumes/BEN_DRIVE/General/loxCompiler/src/main/java = 1611005074000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/element-list = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/constant-values.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/overview-tree.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/deprecated-list.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/index.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/module-search-index.js = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/package-search-index.js = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/type-search-index.js = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/member-search-index.js = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/tag-search-index.js = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/index-all.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/allclasses-index.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/allpackages-index.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/overview-summary.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/help-doc.html = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/stylesheet.css = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/script.js = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/search.js = 1611006224000
+/Volumes/BEN_DRIVE/General/loxCompiler/target/apidocs/jquery-ui.overrides.css = 1611006224000
